@@ -10,7 +10,7 @@ An exploratory data analysis (EDA) of the classic **Superstore** retail dataset 
 | `data/Superstore21.csv` | Source dataset (read with `latin1` encoding) |
 | `data/Region.csv` | Small auxiliary table (Region → Manager) generated in the notebook |
 
-> **Note:** The notebook currently reads the data from an absolute Windows path. Update the `pd.read_csv(...)` and `Df.to_csv(...)` paths to match your own folder layout before running.
+
 
 ## Requirements
 
