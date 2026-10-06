@@ -6,7 +6,7 @@ An exploratory data analysis (EDA) of the classic **Superstore** retail dataset 
 
 | File | Description |
 |------|-------------|
-| `superstore_analysis.ipynb` | Main notebook with the full analysis |
+| `notebooks/superstore_analysis.ipynb` | Main notebook with the full analysis |
 | `data/Superstore21.csv` | Source dataset (read with `latin1` encoding) |
 | `data/Region.csv` | Small auxiliary table (Region → Manager) generated in the notebook |
 
