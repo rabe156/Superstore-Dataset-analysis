@@ -88,9 +88,13 @@ Shape, dtypes, `head()` / `tail()`, and summary statistics.
 
 ## How to Run
 
-1. Place `Superstore21.csv` in a local `data/` folder.
-2. Edit the file paths in the notebook to point to your local copy.
-3. Launch Jupyter and run all cells in order:
+## How to Run
+
+1. Clone or download this repository.
+2. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
 
 ```bash
 jupyter notebook superstore_analysis.ipynb
